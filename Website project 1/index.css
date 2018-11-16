@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	scroll-behavior: smooth;
+}
+
+body{
+	background-image:url(grid.png);
+	background-size: 100%;
+}
+
+header{
+	background-color:darkgoldenrod;
+	opacity: 0.75;
+	width: 86.4%;
+	height: 75px;
+	margin: 0%/*4.1%*/ 6.8% 0%;
+	font-variant-caps: all-petite-caps;
+	/*font-size: 6em;*/
+}
+
+.logo{
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+.menu{
+	float: right;
+	width: 10%;
+	height: 100%;
+}
+
+main{
+	background-color:cornflowerblue;
+	display: block;
+	opacity: 0.75;
+	width: 86.4%;
+	height: 580px;
+	margin: -1.2% 6.8%;
+}
+
+main h1{
+	padding-top: 100px;
+}
+.elements{
+	background-color:darkblue;
+	display: block;
+	position: auto;
+	opacity: 0.75;
+	width: 86.4%;
+	margin: 50px 6.8% 0%;
+}
+
+.div1{
+	background-color:chartreuse;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 200px;
+	width: 32%;
+	margin: 0% 2% 0% 0%;	
+}
+
+.div2{
+	background-color:crimson;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 200px;
+	width: 32%;
+	margin: 0% 2% 0% 0%;
+}
+
+.div3{
+	background-color:darkslateblue;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 400px;
+	width: 32%;
+	margin: 0% 0% 0% 0%;
+}
+
+.div4{
+	background-color:hotpink;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 400px;
+	width: 66%;
+	margin: -178px 0% 0% 0%;
+}
+
+.div5{
+	background-color:olivedrab;
+	opacity: 0.75;
+	float: right;
+	display: block;
+	height: 200px;
+	width: 32%;
+	margin: 22px 0% 0% 0%;
+}
+
+article{
+	clear: both;
+	display: block;
+	background-color: greenyellow;
+	opacity: 0.75;
+	height: 375px;
+	width: 86.4%;
+	margin: 720px 6.8% 0px;
+}
+
+footer{
+	background-color: darkviolet;
+	opacity: 0.75;
+	clear: both;
+	width: 86.4%;
+	height: 150px;
+	display: block;
+	margin: 50px 6.8% 0%;
+	position: relative;
+}
+
+.div6{
+	background-color:darkred;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 2% 0% 0%;
+}
+
+.div7{
+	background-color:lightcyan;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 2% 0% 0%;
+}
+
+.div8{
+	background-color:peru;
+	opacity: 0.75;
+	float: right;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 0% 0% 0%;
+}

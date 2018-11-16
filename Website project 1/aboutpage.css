@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	scroll-behavior: smooth;	
+}
+
+body{
+	background-image:url(grid.png);
+	background-size: 100%;
+}
+
+header{
+	background-color:darkgoldenrod;
+	opacity: 0.75;
+	width: 86.4%;
+	height: 75px;
+	margin: 0%/*4.1%*/ 6.8% 0%;
+	font-variant-caps: all-petite-caps;
+	/*font-size: 6em;*/
+}
+
+.logo{
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+.menu{
+	float: right;
+	width: 10%;
+	height: 100%;
+}
+
+main{
+	background-color: dimgray;
+	opacity: 0.75;
+	height: 500px;
+	width: 86.4%;
+	margin: 0% 6.8%;
+	/*padding-top: 50px;*/
+}
+
+.staffpicture{
+	background-color:darkslategray;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 500px;
+	width: 32%;
+	margin: 0% 0% 0% 0%;
+}
+
+.staffw{
+	background-color: darkkhaki;
+	opacity: 0.75;
+	float: right;
+	display: block;
+	height: 500px;
+	width: 66%;
+	margin: 0% 0% 0% 2%;
+}
+
+footer{
+	background-color: darkviolet;
+	opacity: 0.75;
+	clear: both;
+	width: 86.4%;
+	height: 150px;
+	display: block;
+	margin: 50px 6.8% 0%;
+	position: relative;
+}
+
+.div6{
+	background-color:darkred;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 2% 0% 0%;
+}
+
+.div7{
+	background-color:lightcyan;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 2% 0% 0%;
+}
+
+.div8{
+	background-color:peru;
+	opacity: 0.75;
+	float: right;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 0% 0% 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
