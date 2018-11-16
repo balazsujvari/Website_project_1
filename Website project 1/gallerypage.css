@@ -1,0 +1,296 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	scroll-behavior: smooth;	
+}
+
+body{
+	background-image:url(grid.png);
+	background-size: 100%;
+}
+
+header{
+	background-color:darkgoldenrod;
+	opacity: 0.75;
+	width: 86.4%;
+	height: 75px;
+	margin: 0%/*4.1%*/ 6.8% 0%;
+	font-variant-caps: all-petite-caps;
+	/*font-size: 6em;*/
+}
+
+.logo{
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+.menu{
+	float: right;
+	width: 10%;
+	height: 100%;
+}
+
+.gallery{
+	background-color:darkkhaki;
+	opacity: 0.75;
+	width: 86.4%;
+	height: 2035px;
+	margin: 0% 6.8% 0%;
+}
+
+.box1{
+	background-color: darkred;
+	opacity: 0.75;
+	width: 16%;
+	height: 270px;
+	margin: 0% 2% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box2{
+	background-color: cyan;
+	opacity: 0.75;
+	width: 48%;
+	height: 450px;
+	margin: 0% 0% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box3{
+	background-color:beige;
+	opacity: 0.75;
+	width: 32%;
+	height: 180px;
+	margin: 0% 0% 2% 2%;
+	float: right;
+	display: block;
+}
+
+.box4{
+	background-color: darkmagenta;
+	opacity: 0.75;
+	width: 32%;
+	height: 400px;
+	margin: 0% 0% 2% 2%;
+	float: right;
+	display: block;
+}
+
+.box5{
+	background-color: tomato;
+	opacity: 0.75;
+	width: 16%;
+	height: 160px;
+	margin: -182.55px 2% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box6{
+	background-color:seagreen;
+	opacity: 0.75;
+	width: 32%;
+	height: 240px;
+	margin: 0% 2% 2% -207px;
+	float: left;
+	display: block;
+}
+
+.box7{
+	background-color:royalblue;
+	opacity: 0.75;
+	width: 31.955%;
+	height: 130px;
+	margin: 0% 0% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box8{
+	background-color:olive;
+	opacity: 0.75;
+	width: 65.955%;
+	height: 380px;
+	margin: 0% 0% 0% 0%;
+	float: right;
+	display: block;
+}
+
+.box9{
+	background-color:yellow;
+	opacity: 0.75;
+	width: 32%;
+	height: 269.955px;
+	margin: 0% 2% 0% 0%;
+	float: left;
+	display: block;
+}
+
+.box11{
+	background-color: darkred;
+	opacity: 0.75;
+	width: 16%;
+	height: 270px;
+	margin: 2% 2% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box12{
+	background-color: cyan;
+	opacity: 0.75;
+	width: 48%;
+	height: 450px;
+	margin: 2% 0% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box13{
+	background-color:beige;
+	opacity: 0.75;
+	width: 32%;
+	height: 180px;
+	margin: 2% 0% 2% 2%;
+	float: right;
+	display: block;
+}
+
+.box14{
+	background-color: darkmagenta;
+	opacity: 0.75;
+	width: 32%;
+	height: 400px;
+	margin: 0% 0% 2% 2%;
+	float: right;
+	display: block;
+}
+
+.box15{
+	background-color: tomato;
+	opacity: 0.75;
+	width: 16%;
+	height: 160px;
+	margin: -182.55px 2% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box16{
+	background-color:seagreen;
+	opacity: 0.75;
+	width: 32%;
+	height: 240px;
+	margin: 0% 2% 2% -207px;
+	float: left;
+	display: block;
+}
+
+.box17{
+	background-color:royalblue;
+	opacity: 0.75;
+	width: 31.955%;
+	height: 130px;
+	margin: 0% 0% 2% 0%;
+	float: left;
+	display: block;
+}
+
+.box18{
+	background-color:olive;
+	opacity: 0.75;
+	width: 65.955%;
+	height: 380px;
+	margin: 0% 0% 2% 0%;
+	float: right;
+	display: block;
+}
+
+.box19{
+	background-color:yellow;
+	opacity: 0.75;
+	width: 32%;
+	height: 269.955px;
+	margin: 0% 2% 2% 0%;
+	float: left;
+	display: block;
+}
+
+footer{
+	background-color: darkviolet;
+	opacity: 0.75;
+	clear: both;
+	width: 86.4%;
+	height: 150px;
+	display: block;
+	margin: 50px 6.8% 0%;
+	position: relative;
+}
+
+.div6{
+	background-color:darkred;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 2% 0% 0%;
+}
+
+.div7{
+	background-color:lightcyan;
+	opacity: 0.75;
+	float: left;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 2% 0% 0%;
+}
+
+.div8{
+	background-color:peru;
+	opacity: 0.75;
+	float: right;
+	display: block;
+	height: 100%;
+	width: 32%;
+	margin: 0% 0% 0% 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
